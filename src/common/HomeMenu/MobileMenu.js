@@ -22,7 +22,7 @@ function MobileMenu() {
     <div className="mobile-menu">
       <div className="mobile-menu-header">
         <Link to="/" className="mobile-logo">
-          <img src={logo} />
+          <img src={logo} alt="mobile logo" />
           Canna Corner Store
         </Link>
 

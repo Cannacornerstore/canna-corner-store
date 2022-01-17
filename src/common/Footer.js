@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EventIcon from '@mui/icons-material/Event';
 import TextsmsIcon from '@mui/icons-material/Textsms';

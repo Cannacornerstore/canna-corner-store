@@ -27,7 +27,7 @@ function Menu() {
 
                 <div className="menu-category-item">
                     <div className="menu-category-item-name">Coyote</div>
-                    <div className="menu-category-item-price">$40</div>
+                    <div className="menu-category-item-price">$35</div>
                 </div>
 
                 <div className="menu-category-item">
@@ -51,12 +51,17 @@ function Menu() {
                 </div>
 
                 <div className="menu-category-item">
-                    <div className="menu-category-item-name">Black Cherry Runtz</div>
-                    <div className="menu-category-item-price">$100</div>
+                    <div className="menu-category-item-name">Black Runtz</div>
+                    <div className="menu-category-item-price">$75</div>
                 </div>
 
                 <div className="menu-category-item">
-                    <div className="menu-category-item-name">Kool Aid</div>
+                    <div className="menu-category-item-name">Tenscotti</div>
+                    <div className="menu-category-item-price">$85</div>
+                </div>
+
+                <div className="menu-category-item">
+                    <div className="menu-category-item-name">Cherry Look Aid</div>
                     <div className="menu-category-item-price">$100</div>
                 </div>
             </div>
@@ -118,6 +123,11 @@ function Menu() {
                 <div className="menu-category-item">
                     <div className="menu-category-item-name">THC Lean</div>
                     <div className="menu-category-item-price">$50</div>
+                </div>
+
+                <div className="menu-category-item">
+                    <div className="menu-category-item-name">Wonka Bar</div>
+                    <div className="menu-category-item-price">$45</div>
                 </div>
             </div>
 

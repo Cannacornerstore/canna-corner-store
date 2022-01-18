@@ -8,7 +8,7 @@ function Home() {
     return (
         <div className="home">
             <div className="home-note">
-                Like what you see? Check out our <ExternalLink src="https://www.cannacornerstore.com/" text="official site" />.
+                Like what you see? Check out our <ExternalLink src="https://www.cannacornerstore.com/" text="official site" />
             </div>
 
             <div className="home-note">

@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/canna-corner-store/static/css/main.59902b8e.css",
-    "main.js": "/canna-corner-store/static/js/main.708fd434.js",
+    "main.js": "/canna-corner-store/static/js/main.b7e88307.js",
     "static/js/787.f4f20632.chunk.js": "/canna-corner-store/static/js/787.f4f20632.chunk.js",
     "static/media/logo.png": "/canna-corner-store/static/media/logo.21c071693c31a505096f.png",
-    "static/media/delivery-map.png": "/canna-corner-store/static/media/delivery-map.62d16edad7108d95fbe5.png",
+    "static/media/delivery-map.png": "/canna-corner-store/static/media/delivery-map.9661fe4ea9d2cee9ef49.png",
     "static/media/zelle-logo.png": "/canna-corner-store/static/media/zelle-logo.e7fac587846bce54c6b9.png",
     "static/media/venmo-logo.png": "/canna-corner-store/static/media/venmo-logo.6d6e0e96f54d670d0a2a.png",
     "static/media/cashapp-logo.png": "/canna-corner-store/static/media/cashapp-logo.badc0e161f9f4359f83c.png",
     "index.html": "/canna-corner-store/index.html",
     "main.59902b8e.css.map": "/canna-corner-store/static/css/main.59902b8e.css.map",
-    "main.708fd434.js.map": "/canna-corner-store/static/js/main.708fd434.js.map",
+    "main.b7e88307.js.map": "/canna-corner-store/static/js/main.b7e88307.js.map",
     "787.f4f20632.chunk.js.map": "/canna-corner-store/static/js/787.f4f20632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59902b8e.css",
-    "static/js/main.708fd434.js"
+    "static/js/main.b7e88307.js"
   ]
 }
